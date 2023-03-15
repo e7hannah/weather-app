@@ -1,59 +1,80 @@
-.btn{
-    width:200px;
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.row{
+
+a {
+    font-size: 18px;
+    color: black;
+}
+
+h1 {
+    text-align: right;
+}
+
+form {
+    padding: 5px 0px;
+}
+
+.btn {
+    width: 110px;
+}
+
+.row {
     padding: 12px 12px;
 }
-.header-temp{
+
+.header-temp {
     font-size: 17px;
+    text-align: center;
     margin: 0 10;
 }
 
-.time{
+.time {
     font-size: 14px;
+    text-align: left;
     padding: none;
     margin: 0;
 }
 
-.location{
+.location {
     text-align: right;
     font-size: 28px;
 }
 
-.current-temp{
+.current-temp {
     text-align: right;
     font-size: 45px;
 }
 
-.fa-sun{
+.fa-sun {
     font-size: 90px;
-    color: #FFE168;
+    color: #ffe168;
 }
 
-.fa-cloud-sun{
+.fa-cloud-sun {
     font-size: 30px;
-    color: #FFE168;
+    color: #ffe168;
 }
 
-.fa-cloud{
+.fa-cloud {
     font-size: 30px;
     color: rgb(196, 194, 194);
 }
 
-.fa-location-dot{
-    color: #EA4335;
-}
-
-.card{
-    padding: 20px;
-}
-.card-title{
+.card-title {
     font-size: 12px;
     text-align: center;
 }
 
-.card-text
-{
+.card-text {
     font-size: 20px;
     text-align: center;
+}
+
+.weather-app {
+    border: 1px solid #dadde1;
+    padding: 15px;
+    margin: 20px auto;
+    border-radius: 10px;
+    max-width: 800px;
 }
