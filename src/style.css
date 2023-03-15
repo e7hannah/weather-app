@@ -1,0 +1,59 @@
+.btn{
+    width:200px;
+}
+.row{
+    padding: 12px 12px;
+}
+.header-temp{
+    font-size: 17px;
+    margin: 0 10;
+}
+
+.time{
+    font-size: 14px;
+    padding: none;
+    margin: 0;
+}
+
+.location{
+    text-align: right;
+    font-size: 28px;
+}
+
+.current-temp{
+    text-align: right;
+    font-size: 45px;
+}
+
+.fa-sun{
+    font-size: 90px;
+    color: #FFE168;
+}
+
+.fa-cloud-sun{
+    font-size: 30px;
+    color: #FFE168;
+}
+
+.fa-cloud{
+    font-size: 30px;
+    color: rgb(196, 194, 194);
+}
+
+.fa-location-dot{
+    color: #EA4335;
+}
+
+.card{
+    padding: 20px;
+}
+.card-title{
+    font-size: 12px;
+    text-align: center;
+}
+
+.card-text
+{
+    font-size: 20px;
+    text-align: center;
+}
